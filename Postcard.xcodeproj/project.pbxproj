@@ -13,6 +13,8 @@
 		B0FFD7241B446BFF00F24AB8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0FFD7231B446BFF00F24AB8 /* Images.xcassets */; };
 		B0FFD7271B446BFF00F24AB8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0FFD7251B446BFF00F24AB8 /* LaunchScreen.xib */; };
 		B0FFD7331B446BFF00F24AB8 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FFD7321B446BFF00F24AB8 /* PostcardTests.swift */; };
+		B0FFD73F1B447F9900F24AB8 /* Unknown-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B0FFD73E1B447F9900F24AB8 /* Unknown-1.jpeg */; };
+		B0FFD7411B450F3800F24AB8 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0FFD7401B450F3800F24AB8 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		B0FFD72C1B446BFF00F24AB8 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0FFD7311B446BFF00F24AB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0FFD7321B446BFF00F24AB8 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		B0FFD73E1B447F9900F24AB8 /* Unknown-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-1.jpeg"; sourceTree = "<group>"; };
+		B0FFD7401B450F3800F24AB8 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		B0FFD71A1B446BFF00F24AB8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B0FFD7401B450F3800F24AB8 /* AlbertEinsteinStamp.jpg */,
+				B0FFD73E1B447F9900F24AB8 /* Unknown-1.jpeg */,
 				B0FFD71B1B446BFF00F24AB8 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				B0FFD7221B446BFF00F24AB8 /* Main.storyboard in Resources */,
 				B0FFD7271B446BFF00F24AB8 /* LaunchScreen.xib in Resources */,
+				B0FFD7411B450F3800F24AB8 /* AlbertEinsteinStamp.jpg in Resources */,
+				B0FFD73F1B447F9900F24AB8 /* Unknown-1.jpeg in Resources */,
 				B0FFD7241B446BFF00F24AB8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
